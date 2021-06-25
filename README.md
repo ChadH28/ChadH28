@@ -7,6 +7,20 @@
   - Email: chadhoosain@gmail.com
   - First nested list item
 
+
+- 🔭 My list of languages include
+  - HTML
+  - CSS
+  - Bootstrap
+  - MySQL
+  - Javascript
+  - PostgreSQL
+  - Reactjs
+  - MongoDB
+
+- 🌱 I’m currently learning
+  - Vuejs
+
 <!--
 **ChadH28/ChadH28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
