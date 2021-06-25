@@ -1,11 +1,13 @@
 # Hi there, Im Chad Hoosain 👻
 
 
-- 📫 How to reach me:
+### 📫 How to reach me:
   - Mobile: 084 466 4783
   - LinkedIn: https://www.linkedin.com/in/chad-hoosain-3660641a6/
   - Email: chadhoosain@gmail.com
 
+
+## Over a years worth of web developement experience at Intern level
 
 - 🔭 My list of languages include
   - HTML
