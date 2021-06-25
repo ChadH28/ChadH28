@@ -9,7 +9,7 @@
 
 ## Over a years worth of web developement experience at Intern level
 
-- 🔭 My list of languages include
+### 🔭 My list of languages include
   - HTML
   - CSS
   - Bootstrap
@@ -19,11 +19,11 @@
   - Reactjs
   - MongoDB
 
-- 🌱 I’m currently learning
+### 🌱 I’m currently learning
   - Vuejs
   - Jest testing
 
-- 👯 I’m looking to collaborate on
+### 👯 I’m looking to collaborate on
   - Passion projects
   - Large-scale projects
   - Help where needed in specific code
