@@ -1,5 +1,8 @@
 # Hi there, Im Chad Hoosain 👻
 
+![Logo](https://ibb.co/ccGjTHg)Format: ![Alt Text](url)
+
+
 ## Over a good years worth of web developement experience
 
 ### 📫 How to reach me:
@@ -41,5 +44,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+https://ibb.co/ccGjTHg
 -->
