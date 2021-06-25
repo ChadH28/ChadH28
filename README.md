@@ -1,6 +1,6 @@
 # Hi there, Im Chad Hoosain 👻
 
-![Logo](https://ibb.co/ccGjTHg)Format: ![Alt Text](url)
+![](https://ibb.co/ccGjTHg)
 
 
 ## Over a good years worth of web developement experience
