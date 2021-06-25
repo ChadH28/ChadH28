@@ -1,5 +1,3 @@
-# Hi there, Im Chad Hoosain 👻
-
 ![](https://i.ibb.co/0jgxJSD/profilepic.png)
 
 
@@ -43,6 +41,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+# Hi there, Im Chad Hoosain 👻
 
 https://ibb.co/ccGjTHg
 -->
