@@ -7,7 +7,8 @@
   - Mobile: 084 466 4783
   - LinkedIn: https://www.linkedin.com/in/chad-hoosain-3660641a6/
   - Email: chadhoosain@gmail.com
-  - Indeed: my.indeed.com/p/chadh-qsou0dl/
+  - Indeed: https://my.indeed.com/p/chadh-qsou0dl/
+  - Resume: https://resume.io/r/VM1ylhb96
 
 
 ### 🔭 My list of languages include
