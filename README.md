@@ -10,7 +10,7 @@
   - Indeed: https://my.indeed.com/p/chadh-qsou0dl/
   - Resume: https://resume.io/r/VM1ylhb96
 
-### 🔭 Tools I use
+### :computer: Tools I use
   - VScode
   - Git
   - Terminal
