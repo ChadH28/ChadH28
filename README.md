@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="image"  src="https://i.ibb.co/0jgxJSD/profilepic.png" />
+<img align="right" alt="image"  src="https://i.ibb.co/0jgxJSD/profilepic.png" />
 
 ## Over a good years worth of web developement experience
 
