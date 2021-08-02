@@ -1,5 +1,6 @@
-![](https://i.ibb.co/0jgxJSD/profilepic.png)
 
+
+<img align="centre" alt="image"  src="https://i.ibb.co/0jgxJSD/profilepic.png" />
 
 ## Over a good years worth of web developement experience
 
@@ -59,6 +60,8 @@
 
 <!--
 **ChadH28/ChadH28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://i.ibb.co/0jgxJSD/profilepic.png)
 
 Here are some ideas to get you started:
 
