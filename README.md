@@ -1,5 +1,5 @@
 # Over a good years worth of web developement experience
-<img align="right" alt="image" src="https://i.ibb.co/0jgxJSD/profilepic.png" />
+<img align="right" width='400px' alt="image" src="https://i.ibb.co/0jgxJSD/profilepic.png" />
 
 ### 📫 How to reach me:
   - Mobile: 084 466 4783
