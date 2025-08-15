@@ -1,8 +1,5 @@
-
-
-<img align="right" alt="image"  src="https://i.ibb.co/0jgxJSD/profilepic.png" />
-
-## Over a good years worth of web developement experience
+# Over a good years worth of web developement experience
+<img align="right" alt="image" src="https://i.ibb.co/0jgxJSD/profilepic.png" />
 
 ### 📫 How to reach me:
   - Mobile: 084 466 4783
@@ -51,7 +48,6 @@
   - AI intergration
   - Shopify
 
-<br/>
 
 ### :busts_in_silhouette: I’m looking to collaborate on
   - Passion projects
